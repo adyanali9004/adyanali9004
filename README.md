@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 💫 About Me:
 Computer Science undergraduate at KIIT University with experience in data analytics, dashboard development, and workflow automation through tools like Power BI, SQL, and Power Apps. Passionate about translating business requirements into data-driven insights and building scalable analytics solutions, with strong interest in consulting and SaaS implementation roles
 
@@ -19,4 +19,4 @@ Computer Science undergraduate at KIIT University with experience in data analyt
 [![](https://komarev.com/ghpvc/?username=adyanali9004&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
